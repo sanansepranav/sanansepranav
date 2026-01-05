@@ -58,4 +58,4 @@ and turning ideas into working projects.
 ---
 
 ## ⚡ Quote
-> “Learning never stops in technology.”
+> “Learning never stops in technology.”..
