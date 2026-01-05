@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pranav Sananse
 
 🎓 Computer Engineering Student | Aspiring Full-Stack Developer  
-💻 Web Development | IoT | Cybersecurity  
+💻 Web Development | Frontend Development   
 🚀 Actively learning & building real-world projects
 
 ---
