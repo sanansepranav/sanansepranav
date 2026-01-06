@@ -1,6 +1,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-sanansepranav-black?logo=github)](https://github.com/sanansepranav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Sananse-blue?logo=linkedin)](https://linkedin.com/in/pranav-sananse)
 
+<p align="left">
+  <a href="https://github.com/sanansepranav">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/pranav-sananse">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto: sanansepranav2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 # 👋 Hi, I'm Pranav Sananse
 
 🎓 Computer Engineering Student | Aspiring Full-Stack Developer  
