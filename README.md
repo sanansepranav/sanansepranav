@@ -1,3 +1,6 @@
+[![GitHub](https://img.shields.io/badge/GitHub-sanansepranav-black?logo=github)](https://github.com/sanansepranav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Sananse-blue?logo=linkedin)](https://linkedin.com/in/pranav-sananse)
+
 # 👋 Hi, I'm Pranav Sananse
 
 🎓 Computer Engineering Student | Aspiring Full-Stack Developer  
